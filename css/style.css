@@ -35,6 +35,8 @@ img {
   overflow: hidden;
 }
 
+a { outline:none;}
+
 .icons {
   display: flex;
   justify-content: space-between;
